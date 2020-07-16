@@ -1,2 +1,2 @@
-# Project3
-Handwriting Recognition
+# Convolutional-NN
+Convolutional Neuron Network
